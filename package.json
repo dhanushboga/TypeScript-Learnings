@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/dhanushboga/TypeScript-Learnings/issues"
   },
-  "homepage": "https://github.com/dhanushboga/TypeScript-Learnings#readme"
+  "homepage": "https://github.com/dhanushboga/TypeScript-Learnings#readme",
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
 }

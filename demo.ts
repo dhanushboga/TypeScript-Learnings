@@ -1,5 +1,5 @@
-function add(a,b) {
+function add(a:number , b: number){
     return a+b;
 }
-let result = add(10,50);
+let result = add(45,78);
 console.log(result);
