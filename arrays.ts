@@ -58,3 +58,6 @@ let arrayTuple: [string,number][] = [
     ["dhanush",200],
     ["sai",100]
 ]
+
+
+
